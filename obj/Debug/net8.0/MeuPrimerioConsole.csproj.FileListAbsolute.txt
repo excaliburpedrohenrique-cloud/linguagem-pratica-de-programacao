@@ -1,0 +1,15 @@
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\bin\Debug\net8.0\MeuPrimerioConsole.exe
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\bin\Debug\net8.0\MeuPrimerioConsole.deps.json
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\bin\Debug\net8.0\MeuPrimerioConsole.runtimeconfig.json
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\bin\Debug\net8.0\MeuPrimerioConsole.dll
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\bin\Debug\net8.0\MeuPrimerioConsole.pdb
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.AssemblyInfoInputs.cache
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.AssemblyInfo.cs
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.csproj.CoreCompileInputs.cache
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.sourcelink.json
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.dll
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\refint\MeuPrimerioConsole.dll
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.pdb
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\MeuPrimerioConsole.genruntimeconfig.cache
+C:\Users\18054082401\Desktop\Nova pasta\MeuPrimerioConsole\obj\Debug\net8.0\ref\MeuPrimerioConsole.dll

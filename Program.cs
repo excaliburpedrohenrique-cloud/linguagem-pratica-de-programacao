@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.Contracts;
-
-Console.WriteLine("Informe seu nome: ");
+﻿Console.WriteLine("Informe seu nome: ");
 string nomeUsuario = Console.ReadLine()!;
 
 Console.WriteLine("Informe a sua idade: ");
@@ -16,5 +14,3 @@ Console.WriteLine("Seu nome é: " + nomeUsuario);
 Console.WriteLine("Sua idade é: " + idadeConvertida);
 Console.WriteLine("Sua altura é: " + alturaConvertida);
 Console.WriteLine("Possui CNH: " + CNH);
-
-Console.WriteLine("OIOIOI");

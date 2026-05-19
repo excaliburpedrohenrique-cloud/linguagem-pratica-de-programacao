@@ -1,16 +1,27 @@
-﻿Console.WriteLine("Informe seu nome: ");
-string nomeUsuario = Console.ReadLine()!;
+﻿Console.WriteLine("Selecione uma opção de 1 a 4: ");
+Console.WriteLine("1 - CADASTRO, " + " 2 - LISTAR USUÁRIOS, " + " 3 - EXCLUIR USUÁRIO, " + " 4 - SAIR");
 
-Console.WriteLine("Informe a sua idade: ");
-int idadeConvertida = int.Parse(Console.ReadLine()!);
+string Opções = (Console.ReadLine())!;
 
-Console.WriteLine("Informe sua altura: ");
-double alturaConvertida = double.Parse(Console.ReadLine()!);
+switch (Opções)
+{
+    case "1":
+        Console.WriteLine("Você escolheu cadastro!");
+        break;
+    
+    case "2":
+        Console.WriteLine("Você escolheu listar usuários!");
+        break;
 
-Console.WriteLine("Você possui CNH? insira 'true' para verdadeiro e 'false' para falso");
-bool CNH = bool.Parse(Console.ReadLine()!);
+    case "3":
+        Console.WriteLine("Você escolheu excluir usuário!");
+        break;
 
-Console.WriteLine("Seu nome é: " + nomeUsuario);
-Console.WriteLine("Sua idade é: " + idadeConvertida);
-Console.WriteLine("Sua altura é: " + alturaConvertida);
-Console.WriteLine("Possui CNH: " + CNH);
+    case "4":
+        Console.WriteLine("Você escolheu sair!");
+        break;
+
+    default:
+        Console.WriteLine("ERRO");
+        break;
+}
